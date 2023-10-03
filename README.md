@@ -1,4 +1,4 @@
-1327
+2811
 ====
 
 **THIS PROJECT IS DEPRECATED! No security updates, bugfixes or support will be provided. For the successor of myhpi.de, head to the [new project](https://github.com/fsr-de/myHPI).**
