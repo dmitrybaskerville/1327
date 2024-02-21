@@ -4,11 +4,7 @@ export DEBIAN_FRONTEND=noninteractive
 
 # install python stuff
 apt-get -q update
-apt-get -q install -y python3-dev python3-pip gettext
-
-# setup Yarn
-curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
-echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
+apt-get -q install -y python3-de/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
 
 apt-get update
 apt-get -q install -y yarn
